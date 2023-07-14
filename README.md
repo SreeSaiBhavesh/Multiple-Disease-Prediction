@@ -16,6 +16,8 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/6823/6823853.png" width="25" height="25"> Screenshots
 
-<img src="Images/Diabetes.JPG" alt="logo" height="280" width="750">
-<img src="Images/heart.JPG" alt="logo" height="300" width="700">
-<img src="Images/parkinson.JPG" alt="logo" height="300" width="700">
+![Diabetes](https://github.com/SreeSaiBhavesh/Multiple-Disease-Prediction/assets/78292660/d7f69225-41a8-4bda-a7f3-138b6ba0a4bd)
+![heart](https://github.com/SreeSaiBhavesh/Multiple-Disease-Prediction/assets/78292660/6bcae875-9a23-48d4-b8e4-e18587bb01a5)
+![parkinson](https://github.com/SreeSaiBhavesh/Multiple-Disease-Prediction/assets/78292660/a07fed3f-0aba-4e5d-9300-cff5ee00d594)
+
+
